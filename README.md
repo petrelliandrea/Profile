@@ -1,7 +1,9 @@
 ### Hi i'm Andrea :sunglasses:
 
-I'm Andrea, a Computer Science student in Turin, Italy. <br />
+I'm Andrea, a Computer Science student in Turin, Italy.  
 I love penguins :penguin::gift_heart:
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=petrelliandrea&hide=contribs,prs)
 
 
