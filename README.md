@@ -1,4 +1,4 @@
-### Hi i'm Andrea👋
+### Hi i'm Andrea :sunglasses:
 
 I'm Andrea, a Computer Science student in Turin, Italy.
 
