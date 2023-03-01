@@ -1,7 +1,7 @@
 ### Hi i'm Andrea :sunglasses:
 
 I'm Andrea, a Computer Science student in Turin, Italy.  
-I love Sheep :penguin:sheep:gift_heart:
+I love Sheep :sheep: :gift_heart:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=petrelliandrea&hide=contribs,prs)
